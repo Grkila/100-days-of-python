@@ -1,2 +1,2 @@
 # 100-days-of-python
-Little python projects so i learn pythno better
+Little python projects so i learn python better
