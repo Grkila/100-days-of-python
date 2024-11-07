@@ -1,2 +1,2 @@
 # 100-days-of-python
-Mali projekti koje radim svakog dana
+Little python projects so i learn pythno better
